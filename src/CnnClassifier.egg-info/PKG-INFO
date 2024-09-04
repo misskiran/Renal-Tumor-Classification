@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: CnnClassifier
+Version: 0.0.0
+Summary: Small Python Package for CNN app
+Home-page: https://github.com/misskiran/Renal-Tumor-Classification
+Author: misskiran
+Author-email: kiranmis005@gmail.com
+Project-URL: Bug Tracker, https://github.com/misskiran/Renal-Tumor-Classification/issues
+Description-Content-Type: text/markdown
+
+# Renal-Tumor-Classification
+It is a Deep Learning Project involving MLflow , DVC and Deployment
+
+```
+# How To Run The Application ?
+```
+
+1. Clone the repository using the following command:
+
+```
+
+```

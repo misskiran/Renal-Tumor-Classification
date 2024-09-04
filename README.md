@@ -1,8 +1,8 @@
 # Renal-Tumor-Classification
 It is a Deep Learning Project involving MLflow , DVC and Deployment.
 
-```# How To Run The Application ?
-```
+# How To Run The Application ?
+
 
  Clone the repository using the following command:
 
@@ -17,7 +17,7 @@ conda create -n vrtlcnn python=3.8 -y
 ```
 conda activate vrtlcnn
 ```
-###2.Install the requirements
+### 2.Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
